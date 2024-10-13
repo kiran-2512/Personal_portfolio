@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
 
-/*Deafult Settings for the webpage */
+/*Default Settings for the webpage */
 *{
     margin: 0px;
     padding:0px;
@@ -79,7 +79,7 @@ body{
      display: flex;
      /* justify-content:center; */
      align-items: center;
-     background-image: url("/Assets/images/cool-background.png");
+     background-image: url("../images/cool-background.png");
      height: 500px;
      margin-top: 80px;
  }
